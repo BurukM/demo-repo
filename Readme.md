@@ -1,3 +1,3 @@
 #Demo
 
-welcome to git/gitjub.
+welcome to git/gitjub!
